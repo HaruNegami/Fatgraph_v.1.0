@@ -12,6 +12,7 @@ To change parameters for thresholds of potentials, see configuration.py
 To change directories to save results, see classFilePath.py
 
 Usage:
+
     python main.py model_option test_option update_option
 
 Usage example:
