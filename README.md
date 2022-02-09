@@ -6,7 +6,6 @@ You can change parameters at configuration files in configuration folder
 To change parameters for thresholds of potentials, see configuration.py
 To change directories to save results, see classFilePath.py
 
-"""
 Usage:
     be sure to write the path of the working directory to /configuration/classFilePath.py
     python main.py model_option test_option update_option
@@ -26,4 +25,3 @@ update_option:
     overwrite  : calculate all files
     difference : calculate invariants iff not yet calculated
 
-"""
