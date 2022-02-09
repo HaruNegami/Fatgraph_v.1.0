@@ -1,4 +1,7 @@
 # Fatgraph_v.1.0
+#################################
+##### First, be sure to write the path of the working directory to /configuration/classFilePath.py
+#################################
 
 First settings:
 
@@ -9,9 +12,6 @@ To change parameters for thresholds of potentials, see configuration.py
 To change directories to save results, see classFilePath.py
 
 Usage:
-
-    be sure to write the path of the working directory to /configuration/classFilePath.py
-    
     python main.py model_option test_option update_option
 
 Usage example:
